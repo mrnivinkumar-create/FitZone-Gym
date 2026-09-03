@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { Mail, MapPin, Phone, Loader2, CheckCircle2, XCircle } from 'lucide-react';
-import { useState, useEffect } from 'react';
+import { useState } from "react";
 import { useSearchParams } from 'react-router-dom';
 
 const Contact = () => {
